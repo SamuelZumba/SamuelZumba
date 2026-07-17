@@ -16,7 +16,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco na �
 
 Tenho direcionado minha formação para **Análise de Dados, Ciência de Dados, Banco de Dados, SQL e Python**, desenvolvendo projetos que envolvem modelagem de dados, consultas SQL, otimização de bancos de dados e construção de soluções voltadas ao ambiente corporativo.
 
-Atualmente, também estou aprofundando meus conhecimentos em **Ciência de Dados** e **SAP**, buscando ampliar minha visão sobre dados, processos de negócio e inteligência analítica.
+Atualmente, também estou aprofundando meus conhecimentos em **Ciência de Dados**,**SAP**,**Power BI** e **Machine Learning**, buscando ampliar minha visão sobre dados, processos de negócio e inteligência analítica.
 
 Meu objetivo é construir uma carreira nas áreas de **Análise de Dados, Ciência de Dados, Banco de Dados e Business Intelligence**, participando de projetos que transformem dados em informação, conhecimento e resultados.
 
